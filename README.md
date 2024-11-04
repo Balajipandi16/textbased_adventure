@@ -1,4 +1,4 @@
-Here's a sample GitHub documentation (README.md) for your interactive text-based adventure game project. This includes installation instructions, usage, features, and an overview of the code structure.
+
 
 ---
 
